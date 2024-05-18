@@ -5,7 +5,7 @@ Projeto de uma animação em CSS desenvolvido para a aula de Des. Web I, do curs
 
 ## ✒️ Autor
 
-* Héricles Mendes - Desenvolvimento - [herixcx](https://github.com/herixcxl)
+* Héricles Mendes - Desenvolvimento - [herixcx](https://github.com/herixcxl) <br>
  ** Com ajuda do queridíssimo Leonardo Cunha para formatação das asas. 💙 - [leonardocunha1](https://github.com/leonardocunha1)
   
 ## 📍 Link para o projeto no CodePen
